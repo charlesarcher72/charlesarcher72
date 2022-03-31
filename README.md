@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @charlesarcher72
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-charlesarcher72/charlesarcher72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Hellow%2C+World!;)](https://git.io/typing-svg)
+</h1>
