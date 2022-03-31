@@ -9,7 +9,7 @@
 <h1 align="center">About Me</h1>
 <p align="center">
     My name is Charles (Charlie) Archer, a Full Stack Software Engineer based out of Atanta, Georgia. I graduated from The University of Alabama in 2020 with a Bachelors Degree
-    in Computer Engineering, with minors in both Computer Science and Mathematics. I have a passion for all things Computer Science, and have experience with many
+    in Computer Engineering, with minors in both Computer Science and Mathematics. I have a passion for all things Computer Science and have experience with many
     backend and frontend technologies. Feel free to contact me by visiting any of the links below!
 </p>
 
