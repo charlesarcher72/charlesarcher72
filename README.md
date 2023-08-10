@@ -23,7 +23,7 @@
 &emsp; 
 <h1 align="center" style="color:#D3504A;">About Me</h1>
 <p align="justify">
-    I am a hard-working, fast-learning, and self-motivated Software Engineer with demonstrated skills in several different technologies. I have proven experience in the defense and space industry, as well as experience with front-end development and cloud technology through my freelance efforts. I graduated from The University of Alabama in 2020 with a Bachelor's Degree in Computer Engineering, along with minors in both Computer Science and Mathematics. I take pride in my creativity and innovative personality, and enjoy applying it in all of my software development endeavors!
+    I am a hard-working, fast-learning, and self-motivated Software Engineer with demonstrated skills in several different technologies. I have proven experience in the defense and space industry, as well as experience with front-end development and cloud technology through my personal development efforts. I graduated from The University of Alabama in 2020 with a Bachelor's Degree in Computer Engineering, along with minors in both Computer Science and Mathematics. I take pride in my creativity and innovative personality, and enjoy applying it in all of my software development endeavors!
 </p>
 
 
