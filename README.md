@@ -35,13 +35,8 @@
 🎓 A proud graduate of The University of Alabama, holding a B.S. in Computer Engineering with a GPA of 3.9 and a minor in Computer Science and Mathematics.
 
 🌟 Excited to connect, collaborate, and contribute to the exciting world of software development!
-
 </p>
-
-
-
 &emsp; 
-
 
 <h1 align="justify" style="color:#D3504A;">Skills</h1>
 <p align="justify"> 
@@ -76,7 +71,7 @@
 &emsp;
 <img alt="IBM Rhapsody" src="https://img.shields.io/badge/IBM%20Rhapsody%20-D3504A.svg?style=plastic&logo=ibm&logoColor=white">
 &emsp;
-<img alt="Java" src="https://img.shields.io/badge/Java-D3504A.svg?style=plastic&logo=java&logoColor=white">
+<img alt="Java" src="https://img.shields.io/badge/Java-D3504A.svg?style=plastic&logoColor=white">
 &emsp;
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-D3504A.svg?style=plastic&logo=javascript&logoColor=white">
 &emsp;
