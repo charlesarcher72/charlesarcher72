@@ -39,31 +39,31 @@
 &emsp; 
 
 <h1 align="justify" style="color:#D3504A;">Skills</h1>
-<p align="justify"> 
+
+<p>
 &emsp;
+
 <img alt="AWS" src="https://img.shields.io/badge/AWS%20-D3504A.svg?style=plastic&logo=amazon-aws&logoColor=white">
 &emsp;
 <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket%20-D3504A.svg?style=plastic&logo=bitbucket&logoColor=white">
 &emsp;
 <img alt="Bash" src="https://img.shields.io/badge/Bash%20-D3504A.svg?style=plastic&logo=gnu-bash&logoColor=white">
 &emsp;
-
-&emsp;
 <img alt="C" src="https://img.shields.io/badge/C%20-D3504A.svg?style=plastic&logo=c&logoColor=white">
+&emsp;
+
 &emsp;
 <img alt="C++" src="https://img.shields.io/badge/C++%20-D3504A.svg?style=plastic&logo=c%2B%2B&logoColor=white">
 &emsp;
 <img alt="Confluence" src="https://img.shields.io/badge/Confluence%20-D3504A.svg?style=plastic&logo=confluence&logoColor=white">
 &emsp;
-
-&emsp;
 <img alt="CSS" src="https://img.shields.io/badge/CSS%20-D3504A.svg?style=plastic&logo=css3&logoColor=white">
 &emsp;
 <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20-D3504A.svg?style=plastic&logo=eclipse&logoColor=white">
 &emsp;
-<img alt="Git" src="https://img.shields.io/badge/Git%20-D3504A.svg?style=plastic&logo=git&logoColor=white">
-&emsp;
 
+&emsp;
+<img alt="Git" src="https://img.shields.io/badge/Git%20-D3504A.svg?style=plastic&logo=git&logoColor=white">
 &emsp;
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-D3504A.svg?style=plastic&logo=github&logoColor=white">
 &emsp;
@@ -79,23 +79,21 @@
 &emsp;
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-D3504A.svg?style=plastic&logo=javascript&logoColor=white">
 &emsp;
-
-&emsp;
 <img alt="Jira" src="https://img.shields.io/badge/Jira%20-D3504A.svg?style=plastic&logo=jira&logoColor=white">
+&emsp;
+
 &emsp;
 <img alt="Linux" src="https://img.shields.io/badge/Linux%20-D3504A.svg?style=plastic&logo=linux&logoColor=white">
 &emsp;
 <img alt="Lua" src="https://img.shields.io/badge/Lua%20-D3504A.svg?style=plastic&logo=lua&logoColor=white">
 &emsp;
-
-&emsp;
 <img alt="macOS" src="https://img.shields.io/badge/macOS%20-D3504A.svg?style=plastic&logo=apple&logoColor=white">
 &emsp;
 <img alt="NPM" src="https://img.shields.io/badge/NPM%20-D3504A.svg?style=plastic&logo=npm&logoColor=white">
 &emsp;
-<img alt="React" src="https://img.shields.io/badge/React%20-D3504A.svg?style=plastic&logo=react&logoColor=white">
-&emsp;
 
+&emsp;
+<img alt="React" src="https://img.shields.io/badge/React%20-D3504A.svg?style=plastic&logo=react&logoColor=white">
 &emsp;
 <img alt="UML Diagrams" src="https://img.shields.io/badge/UML%20Diagrams%20-D3504A.svg?style=plastic&logo=uml&logoColor=white">
 &emsp;
@@ -107,7 +105,12 @@
 &emsp;
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js%20-D3504A.svg?style=plastic&logo=vue.js&logoColor=white">
 &emsp;
+<img alt="Windows" src="https://img.shields.io/badge/WINDOWS%20-D3504A.svg?style=plastic&logo=windows&logoColor=white">
+&emsp;
+<img alt="Yarn" src="https://img.shields.io/badge/Yarn%20-D3504A.svg?style=plastic&logo=yarn&logoColor=white">
+&emsp;
 </p>
+
 
 
 <h1 align="justify" style="color:#D3504A;">Activity</h1>
