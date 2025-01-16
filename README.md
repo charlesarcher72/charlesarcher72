@@ -17,7 +17,11 @@
   </p>
 </h1> 
 
-<!-- <h2 align="center">About Me</h2> -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=charlesarcher72&theme=blood-dark&border_radius=5&date_format=n%2Fj%5B%2FY%5D&background=A63636&border=FCFAEF&stroke=FCFAEF&ring=FCFAEF&dates=E2E0A5&sideLabels=FCFAEF&sideNums=FCFAEF&currStreakLabel=FCFAEF&fire=E2E0A5&currStreakNum=E2E0A5)" alt="charlesarcher72" />
+</div>
+
+<h2 align="center">About Me</h2>
 
 <p align="justify">
   👋 Hey there! I'm Charles Archer, a passionate Software Engineer based in Atlanta, Georgia.
@@ -35,7 +39,7 @@
   🌟 Excited to connect, collaborate, and contribute to the exciting world of software development!
 </p>
 
-<!-- <h2 align="center">Skills</h2> -->
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-D3504A.svg?style=plastic&logo=amazonwebservices&logoColor=white">&emsp;
