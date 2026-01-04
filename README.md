@@ -66,11 +66,6 @@ Beyond aerospace, I'm passionate about building innovative web and mobile applic
 
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesarcher72&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesarcher72&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=cbd5e1"/>
-</div>
-
 ---
 
 ## 📫 Let's Connect
